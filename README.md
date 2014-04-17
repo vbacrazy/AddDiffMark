@@ -12,4 +12,4 @@ https://github.com/dck-jp/AddDiffMark/releases　からダウンロードして�
 
 Usage
 ===========
-使い方は、を参照してください。
+インストール方法・使い方は、http://clockahead.blogspot.jp/2014/04/word.htmlを参照してください。
