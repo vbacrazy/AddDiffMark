@@ -8,11 +8,14 @@ Word2007,2010,2013に対応しています。
 
 Download
 ===========
-https://github.com/dck-jp/AddDiffMark/releases　からダウンロードしてください。
+https://github.com/dck-jp/AddDiffMark/releases
+からダウンロードしてください。
 
 Usage
 ===========
-インストール方法・使い方は、http://clockahead.blogspot.jp/2014/04/word.htmlを参照してください。
+インストール方法・使い方は、
+http://clockahead.blogspot.jp/2014/04/word.html
+を参照してください。
 
 Source code
 ===========
@@ -24,4 +27,6 @@ Special thanks
 =================
 dotmファイルからソースコードを分離するにあたっては、@igetaさん作のvbac (vbac is not VBA compiler)を用いています。
 
-vbacは、https://github.com/vbaidiot/Ariawase で公開されています。
+vbacは、
+https://github.com/vbaidiot/Ariawase
+で公開されています。
